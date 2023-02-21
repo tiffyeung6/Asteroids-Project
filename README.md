@@ -1,5 +1,5 @@
 #Images-Project (A6 files)
-# This project, a pretty complex GUI application, was completed in my CS110, Introduction to Python class during my fall semester (2022) at Cornell University. It is an assignment where I practiced applying classes from its Interface, learned manipulating images by pixels, and how to write code for unicode strings that included emojis. I practiced skills such as iteration through 1D and 2D lists, enforcing class invariants, and writing code for underspecified functions and methods.
+# This project, a complex GUI application, was completed in my CS110, Introduction to Python class during my fall semester (2022) at Cornell University. It is an assignment where I practiced applying classes from its Interface, learned manipulating images by pixels, and how to write code for unicode strings that included emojis. I practiced skills such as iteration through 1D and 2D lists, enforcing class invariants, and writing code for underspecified functions and methods.
 
 
 
